@@ -1,6 +1,6 @@
 {
-  "name": "Python unit testing",
-  "description": "Python unit testing workflow template.",
+  "name": "Deploy AWS",
+  "description": "Deploys a microservice into AWS.",
   "categories": [
       "Python"
   ]
